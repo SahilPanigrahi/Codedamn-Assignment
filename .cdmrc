@@ -1,0 +1,10 @@
+
+terminals:
+    [
+        'cd client && yarn && yarn start',
+        'cd server && yarn && yarn dev',
+        
+    ]
+
+tabs: ['README.md']
+
